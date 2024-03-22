@@ -13,17 +13,17 @@ public class Coisa {
 	}
 
 	public static void registrarDescanso() {
-//		Descanso descanso = new Descanso();
-//		System.out.println(descanso.getStatusGeral());
-//		descanso.defineHorasDescanso(30);
-//		descanso.defineNumeroSemanas(1);
-//		System.out.println(descanso.getStatusGeral());
-//		descanso.defineHorasDescanso(26);
-//		descanso.defineNumeroSemanas(2);
-//		System.out.println(descanso.getStatusGeral());
-//		descanso.defineHorasDescanso(26);
-//		descanso.defineNumeroSemanas(1);
-//		System.out.println(descanso.getStatusGeral());
+		Descanso descanso = new Descanso();
+		System.out.println(descanso.getStatusGeral());
+		descanso.defineHorasDescanso(30);
+		descanso.defineNumeroSemanas(1);
+		System.out.println(descanso.getStatusGeral());
+		descanso.defineHorasDescanso(26);
+		descanso.defineNumeroSemanas(2);
+		System.out.println(descanso.getStatusGeral());
+		descanso.defineHorasDescanso(26);
+		descanso.defineNumeroSemanas(1);
+		System.out.println(descanso.getStatusGeral());
 	}
 
 	private static void registrarTempoOnline() {
