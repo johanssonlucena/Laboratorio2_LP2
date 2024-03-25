@@ -2,9 +2,9 @@ package br.edu.ufcg.computacao.p2lp2.coisa;
 
 public class RegistroTempoOnline {
 	
-	String nomeDisciplina;
-	int tempoOnline;
-	int tempoEsperado;
+	private String nomeDisciplina;
+	private int tempoOnline;
+	private int tempoEsperado;
 	
 	public RegistroTempoOnline (String nomeDisciplina) {
 		this.nomeDisciplina = nomeDisciplina;
@@ -25,9 +25,9 @@ public class RegistroTempoOnline {
 	public boolean atingiuMetaTempoOnline() {
 		if (tempoOnline >= tempoEsperado) {
 			return true;
-		} else {
-			return false;
 		}
+		
+		return false;
 	}
 	
 	public String toString() {

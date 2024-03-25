@@ -2,9 +2,9 @@ package br.edu.ufcg.computacao.p2lp2.coisa;
 
 public class Descanso {
 
-	int horasDescanso;
-	int numerosSemanas;
-	boolean cansado;
+	private int horasDescanso;
+	private int numerosSemanas;
+	private boolean cansado;
 	
 	public Descanso() {
 		this.horasDescanso = 0;
@@ -25,9 +25,8 @@ public class Descanso {
 	public String getStatusGeral() {	
 		if (cansado) {
 			return "cansado";
-		} else {
-			return "descansado";
-		}
+		} 	
+		return "descansado";
 	}
 	
 	private void atualizaStatus() {
