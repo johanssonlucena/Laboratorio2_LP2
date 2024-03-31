@@ -1,19 +1,25 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/YI9p_zJQ)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=14429900&assignment_repo_type=AssignmentRepo)
+# Laboratório de Programação II - UFCG
+### Atividade: Laboratório 2
+
 # CoISA
 CoISA - Controle Institucional da Situação Acadêmica
 
 ## Ajuda e Suporte
 
-Se tiver DÚVIDAS, você pode obter ajuda e suporte por um dos seguintes canais:
-
 * [Documentação oficial da linguagem Java](https://docs.oracle.com/javase/tutorial/)
-* Com os MONITORES da disciplina no nosso Canal Oficial da disciplina de P2LP2 no Discord
+* Especificação -> Lab 02 - Classes Básicas.pdf
 
-### Contato dos professores:
+### Controle Institucional da Situação Acadêmica (CoISA)
 
-Para outras informações, sugestões ou reclamações, nos envie um email:
+Neste projeto, você deve desenvolver um sistema capaz de gerenciar o uso dos laboratórios de
+Ciência da Computação (LCC’s) e sua vida acadêmica. O CoISA é um sistema complexo, logo a
+separação de responsabilidades através da criação de classes é de extrema importância, pois tem
+como objetivo estruturar, coerentemente, o seu programa.
 
-* Lívia Sampaio Campos - [livia@computacao.ufcg.edu.br](mailto:livia@computacao.ufcg.edu.br)
-* Eliane Araújo - [eliane@computacao.ufcg.edu.br](mailto:eliane@computacao.ufcg.edu.br)
-* Carlos Diego - [carlos.diego@computacao.ufcg.edu.br](mailto:carlos.diego@computacao.ufcg.edu.br)
+A vida do aluno pode ser organizada em quatro atividades básicas: (1) organizar seu tempo de uso
+de internet para as disciplinas, o que é bem importante considerando as distrações das redes
+sociais, (2) estudar para as disciplinas, (3) organizar resumos de estudo e (4) acompanhar sua
+rotina de descanso. Para permitir o controle dessas 4 atividades, você irá desenvolver um sistema
+que permite avaliar a quantidade de tempo de internet (online) que você tem usado nas disciplinas, a
+quantidade de horas que você tem estudado, o cadastro de resumos de estudos e, por fim, como
+está sua rotina de descanso.
