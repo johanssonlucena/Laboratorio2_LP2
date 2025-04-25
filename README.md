@@ -8,7 +8,7 @@ CoISA - Controle Institucional da Situação Acadêmica
 
 * [Documentação oficial da linguagem Java](https://docs.oracle.com/javase/tutorial/)
 * [Especificação do Laboratório](https://github.com/johanssonlucena/Laboratorio2_LP2/blob/main/Lab%2002%20-%20Classes%20B%C3%A1sicas.pdf)
-* Lab 02 - Classes Básicas.pdf
+* [Lab 02 - Classes Básicas.pdf](https://github.com/johanssonlucena/Laboratorio2_LP2/blob/main/Lab%2002%20-%20Classes%20B%C3%A1sicas.pdf)
 
 ### Controle Institucional da Situação Acadêmica (CoISA)
 
